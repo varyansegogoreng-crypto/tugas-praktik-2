@@ -1,0 +1,26 @@
+[
+    {
+        "id_wisata": "1",
+        "kota": "SEMARANG",
+        "landmark": "LAWANG SEWU",
+        "tarif": "20000"
+    },
+    {
+        "id_wisata": "2",
+        "kota": "YOGYAKARTA",
+        "landmark": "PRAMBANAN",
+        "tarif": "35000"
+    },
+    {
+        "id_wisata": "3",
+        "kota": "MAGELANG",
+        "landmark": "BOROBUDUR",
+        "tarif": "45000"
+    },
+    {
+        "id_wisata": "4",
+        "kota": "SURAKARTA",
+        "landmark": "PGS",
+        "tarif": "GRATIS"
+    }
+]
